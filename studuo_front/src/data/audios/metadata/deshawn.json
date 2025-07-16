@@ -1,0 +1,52 @@
+{
+    "user": {
+        "id": "deshawn_davis",
+        "name": "DeShawn Davis"
+    },
+    "songs": [
+        {
+            "id": "song_11",
+            "title": "NATURE",
+            "genre": "Soul",
+            "plays": 18500,
+            "cover": "audio_cover_16.jpg",
+            "visual": "deshawn_song1_visual.mp4",
+            "timestamp": { "start": 0, "end": 220 },
+            "duration": 220,
+            "url": ""
+        },
+        {
+            "id": "song_12",
+            "title": "Protect Me",
+            "genre": "Lo-Fi Hip Hop",
+            "plays": 41200,
+            "cover": "audio_cover_17.jpg",
+            "visual": "deshawn_song2_visual.mp4",
+            "timestamp": { "start": 220, "end": 395 },
+            "duration": 175,
+            "url": ""
+        },
+        {
+            "id": "song_13",
+            "title": "Un Vibe",
+            "genre": "Drill",
+            "plays": 65000,
+            "cover": "audio_cover_18.jpg",
+            "visual": "deshawn_song3_visual.mp4",
+            "timestamp": { "start": 395, "end": 580 },
+            "duration": 185,
+            "url": ""
+        },
+        {
+            "id": "song_14",
+            "title": "Nikes de Frank Ocean",
+            "genre": "Trap",
+            "plays": 33000,
+            "cover": "audio_cover_19.jpg",
+            "visual": "deshawn_song4_visual.mp4",
+            "timestamp": { "start": 580, "end": 780 },
+            "duration": 200,
+            "url": ""
+        }
+    ]
+} 

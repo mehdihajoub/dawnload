@@ -1,0 +1,52 @@
+{
+    "user": {
+        "id": "alex_chen",
+        "name": "Alex Chen"
+    },
+    "songs": [
+        {
+            "id": "song_15",
+            "title": "Making of a Hit",
+            "genre": "Behind-the-scenes",
+            "plays": 12500,
+            "cover": "audio_cover_21.jpg",
+            "visual": "alex_song1_visual.mp4",
+            "timestamp": { "start": 0, "end": 240 },
+            "duration": 240,
+            "url": ""
+        },
+        {
+            "id": "song_16",
+            "title": "Mastering a Trap Beat",
+            "genre": "Engineering Showcase",
+            "plays": 18700,
+            "cover": "audio_cover_22.jpg",
+            "visual": "alex_song2_visual.mp4",
+            "timestamp": { "start": 240, "end": 430 },
+            "duration": 190,
+            "url": ""
+        },
+        {
+            "id": "song_17",
+            "title": "Using Analog Gear",
+            "genre": "Tutorial",
+            "plays": 9800,
+            "cover": "audio_cover_23.jpg",
+            "visual": "alex_song3_visual.mp4",
+            "timestamp": { "start": 430, "end": 630 },
+            "duration": 200,
+            "url": ""
+        },
+        {
+            "id": "song_18",
+            "title": "Secrets of a Perfect Mix",
+            "genre": "Tutorial",
+            "plays": 11200,
+            "cover": "audio_cover_24.jpg",
+            "visual": "alex_song4_visual.mp4",
+            "timestamp": { "start": 630, "end": 810 },
+            "duration": 180,
+            "url": ""
+        }
+    ]
+} 

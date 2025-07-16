@@ -1,0 +1,30 @@
+{
+    "user": {
+        "id": "sophia_rodriguez",
+        "name": "Sophia Rodriguez"
+    },
+    "songs": [
+        {
+            "id": "song_9",
+            "title": "Crash",
+            "genre": "Melodic Rap",
+            "plays": 27300,
+            "cover": "audio_cover_11.jpg",
+            "visual": "sophia_song1_visual.mp4",
+            "timestamp": { "start": 0, "end": 205 },
+            "duration": 205,
+            "url": ""
+        },
+        {
+            "id": "song_10",
+            "title": "Lens",
+            "genre": "Spanish Rap",
+            "plays": 35600,
+            "cover": "audio_cover_12.jpg",
+            "visual": "sophia_song2_visual.mp4",
+            "timestamp": { "start": 205, "end": 390 },
+            "duration": 185,
+            "url": ""
+        }
+    ]
+} 

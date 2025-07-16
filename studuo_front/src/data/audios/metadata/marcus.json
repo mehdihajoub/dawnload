@@ -1,0 +1,66 @@
+{
+    "user": {
+        "id": "marcus_johnson",
+        "name": "Marcus Johnson"
+    },
+    "songs": [
+        {
+            "id": "song_1",
+            "title": "Protect Me",
+            "genre": "Hip Hop",
+            "plays": 15200,
+            "cover": "audio_cover_1.jpg",
+            "visual": "marcus_song1_visual.mp4",
+            "timestamp": { "start": 0, "end": 180 },
+            "duration": 180,
+            "url": "",
+            "collaborators": [
+                {
+                    "id": "jordan_williams",
+                    "name": "JWILLS",
+                    "profilePicture": "jordan_profile.jpg",
+                    "role": "beatmaker"
+                },
+                {
+                    "id": "alex_chen",
+                    "name": "ALEXCHEN",
+                    "profilePicture": "alex_profile.jpg",
+                    "role": "engineer"
+                }
+            ]
+        },
+        {
+            "id": "song_2",
+            "title": "Lens",
+            "genre": "Trap",
+            "plays": 8900,
+            "cover": "audio_cover_2.jpg",
+            "visual": "marcus_song2_visual.mp4",
+            "timestamp": { "start": 180, "end": 375 },
+            "duration": 195,
+            "url": ""
+        },
+        {
+            "id": "song_3",
+            "title": "NATURE",
+            "genre": "Lyrical",
+            "plays": 7500,
+            "cover": "audio_cover_3.jpg",
+            "visual": "marcus_song3_visual.mp4",
+            "timestamp": { "start": 375, "end": 525 },
+            "duration": 150,
+            "url": ""
+        },
+        {
+            "id": "song_4",
+            "title": "Crash",
+            "genre": "Freestyle",
+            "plays": 19800,
+            "cover": "audio_cover_4.jpg",
+            "visual": "marcus_song4_visual.mp4",
+            "timestamp": { "start": 525, "end": 735 },
+            "duration": 210,
+            "url": ""
+        }
+    ]
+} 

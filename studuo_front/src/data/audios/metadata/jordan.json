@@ -1,0 +1,52 @@
+{
+    "user": {
+        "id": "jordan_williams",
+        "name": "Jordan Williams"
+    },
+    "songs": [
+        {
+            "id": "song_5",
+            "title": "DANS LES NUAGES",
+            "genre": "Trap",
+            "plays": 12800,
+            "cover": "audio_cover_6.jpg",
+            "visual": "jordan_song1_visual.mp4",
+            "timestamp": { "start": 0, "end": 210 },
+            "duration": 210,
+            "url": ""
+        },
+        {
+            "id": "song_6",
+            "title": "Un Vibe",
+            "genre": "R&B",
+            "plays": 9500,
+            "cover": "audio_cover_7.jpg",
+            "visual": "jordan_song2_visual.mp4",
+            "timestamp": { "start": 210, "end": 390 },
+            "duration": 180,
+            "url": ""
+        },
+        {
+            "id": "song_7",
+            "title": "Comment créer des prods",
+            "genre": "Lo-Fi",
+            "plays": 22000,
+            "cover": "audio_cover_8.jpg",
+            "visual": "jordan_song3_visual.mp4",
+            "timestamp": { "start": 390, "end": 555 },
+            "duration": 165,
+            "url": ""
+        },
+        {
+            "id": "song_8",
+            "title": "Nikes de Frank Ocean",
+            "genre": "Drill",
+            "plays": 45000,
+            "cover": "audio_cover_9.jpg",
+            "visual": "jordan_song4_visual.mp4",
+            "timestamp": { "start": 555, "end": 710 },
+            "duration": 155,
+            "url": ""
+        }
+    ]
+} 
