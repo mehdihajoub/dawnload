@@ -1,0 +1,84 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[12].oneOf[3].use[2]!./node_modules/next/font/local/target.css?{"path":"components/PinterestGallery.tsx","import":"","arguments":[{"src":"../public/Moslin.otf","display":"swap","variable":"--font-moslin"}],"variableName":"moslin"} ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+font-family: '__moslin_c87425';
+src: url(/_next/static/media/19f23147f7b32d20-s.p.otf) format('opentype');
+font-display: swap;
+}@font-face {font-family: '__moslin_Fallback_c87425';src: local("Arial");ascent-override: 33.35%;descent-override: 8.54%;line-gap-override: 0.00%;size-adjust: 234.21%
+}.__className_c87425 {font-family: '__moslin_c87425', '__moslin_Fallback_c87425'
+}.__variable_c87425 {--font-moslin: '__moslin_c87425', '__moslin_Fallback_c87425'
+}
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[12].oneOf[3].use[2]!./node_modules/next/font/local/target.css?{"path":"components/PinterestGallery.tsx","import":"","arguments":[{"src":"../public/fonts/junicode/Junicode/Junicode.ttf","display":"swap","variable":"--font-junicode"}],"variableName":"junicode"} ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+font-family: '__junicode_dc9300';
+src: url(/_next/static/media/18413d24c5ccf7ff-s.p.ttf) format('truetype');
+font-display: swap;
+}@font-face {font-family: '__junicode_Fallback_dc9300';src: local("Arial");ascent-override: 91.18%;descent-override: 22.82%;line-gap-override: 28.50%;size-adjust: 87.72%
+}.__className_dc9300 {font-family: '__junicode_dc9300', '__junicode_Fallback_dc9300'
+}.__variable_dc9300 {--font-junicode: '__junicode_dc9300', '__junicode_Fallback_dc9300'
+}
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[12].oneOf[3].use[2]!./node_modules/next/font/local/target.css?{"path":"components/PinterestGallery.tsx","import":"","arguments":[{"src":"../public/fonts/DeFontePlus-Leger/DeFontePlus-Leger.ttf","display":"swap","variable":"--font-defonte"}],"variableName":"deFonte"} ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+font-family: '__deFonte_ad9fc5';
+src: url(/_next/static/media/965aaa327c01476f-s.p.ttf) format('truetype');
+font-display: swap;
+}@font-face {font-family: '__deFonte_Fallback_ad9fc5';src: local("Arial");ascent-override: 79.65%;descent-override: 23.66%;line-gap-override: 32.54%;size-adjust: 96.79%
+}.__className_ad9fc5 {font-family: '__deFonte_ad9fc5', '__deFonte_Fallback_ad9fc5'
+}.__variable_ad9fc5 {--font-defonte: '__deFonte_ad9fc5', '__deFonte_Fallback_ad9fc5'
+}
+
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[12].oneOf[3].use[2]!./node_modules/next/font/local/target.css?{"path":"components/CardHolder.tsx","import":"","arguments":[{"src":"../public/fonts/Huffer.otf","display":"swap","variable":"--font-huffer"}],"variableName":"huffer"} ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+font-family: '__huffer_2510a9';
+src: url(/_next/static/media/7edb2fcd2887ba4a-s.p.otf) format('opentype');
+font-display: swap;
+}@font-face {font-family: '__huffer_Fallback_2510a9';src: local("Arial");ascent-override: 30.16%;descent-override: 4.02%;line-gap-override: 0.00%;size-adjust: 248.70%
+}.__className_2510a9 {font-family: '__huffer_2510a9', '__huffer_Fallback_2510a9'
+}.__variable_2510a9 {--font-huffer: '__huffer_2510a9', '__huffer_Fallback_2510a9'
+}
+
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[12].oneOf[3].use[2]!./node_modules/next/font/local/target.css?{"path":"components/CardHolder.tsx","import":"","arguments":[{"src":"../public/fonts/DeFontePlus-Leger/DeFontePlus-Leger.ttf","display":"swap","variable":"--font-defonte"}],"variableName":"deFonte"} ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+font-family: '__deFonte_ad9fc5';
+src: url(/_next/static/media/965aaa327c01476f-s.p.ttf) format('truetype');
+font-display: swap;
+}@font-face {font-family: '__deFonte_Fallback_ad9fc5';src: local("Arial");ascent-override: 79.65%;descent-override: 23.66%;line-gap-override: 32.54%;size-adjust: 96.79%
+}.__className_ad9fc5 {font-family: '__deFonte_ad9fc5', '__deFonte_Fallback_ad9fc5'
+}.__variable_ad9fc5 {--font-defonte: '__deFonte_ad9fc5', '__deFonte_Fallback_ad9fc5'
+}
+
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[12].oneOf[3].use[2]!./node_modules/next/font/local/target.css?{"path":"app/page.tsx","import":"","arguments":[{"src":"../public/Moslin.otf","display":"swap","variable":"--font-moslin"}],"variableName":"moslin"} ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+font-family: '__moslin_c87425';
+src: url(/_next/static/media/19f23147f7b32d20-s.p.otf) format('opentype');
+font-display: swap;
+}@font-face {font-family: '__moslin_Fallback_c87425';src: local("Arial");ascent-override: 33.35%;descent-override: 8.54%;line-gap-override: 0.00%;size-adjust: 234.21%
+}.__className_c87425 {font-family: '__moslin_c87425', '__moslin_Fallback_c87425'
+}.__variable_c87425 {--font-moslin: '__moslin_c87425', '__moslin_Fallback_c87425'
+}
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[12].oneOf[3].use[2]!./node_modules/next/font/local/target.css?{"path":"app/page.tsx","import":"","arguments":[{"src":"../public/fonts/DeFontePlus-Leger/DeFontePlus-Leger.ttf","display":"swap","variable":"--font-defonte"}],"variableName":"deFonte"} ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+font-family: '__deFonte_ad9fc5';
+src: url(/_next/static/media/965aaa327c01476f-s.p.ttf) format('truetype');
+font-display: swap;
+}@font-face {font-family: '__deFonte_Fallback_ad9fc5';src: local("Arial");ascent-override: 79.65%;descent-override: 23.66%;line-gap-override: 32.54%;size-adjust: 96.79%
+}.__className_ad9fc5 {font-family: '__deFonte_ad9fc5', '__deFonte_Fallback_ad9fc5'
+}.__variable_ad9fc5 {--font-defonte: '__deFonte_ad9fc5', '__deFonte_Fallback_ad9fc5'
+}
+

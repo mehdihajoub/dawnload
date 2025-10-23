@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'De Fonte Plus';
+    src: local('De Fonte Plus Leger'), local('De-Fonte-Plus-Leger'),
+        url('DeFontePlus-Leger.woff2') format('woff2'),
+        url('DeFontePlus-Leger.woff') format('woff'),
+        url('DeFontePlus-Leger.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
